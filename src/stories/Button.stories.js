@@ -27,6 +27,12 @@ Blue.args = {
 	label: "Press Me!",
 	size: "md"
 }
+export const Yelllow = Template.bind({});
+Yelllow.args = {
+	backgroundColor: 'yellow',
+	label: "Press Me!",
+	size: "md"
+}
 export const Small = Template.bind({});
 Small.args = {
 	backgroundColor: 'red',
